@@ -5,7 +5,7 @@
     <artifactId>jobflow-webdemo</artifactId>
     <packaging>war</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>jobflow-webdemo Maven Webapp</name>
+    <name>rabbit-spring-webdemo</name>
     <url>http://maven.apache.org</url>
 
     <properties>
