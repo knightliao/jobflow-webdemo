@@ -1,4 +1,4 @@
-package com.knightliao.jobflow.webdemo;
+package com.knightliao.jobflow.rabbitwebdemo;
 
 import org.springframework.amqp.core.AmqpTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -7,7 +7,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-import com.knightliao.jobflow.webdemo.service.Message;
+import com.knightliao.jobflow.rabbitwebdemo.service.Message;
 
 @Controller
 public class HomeController {

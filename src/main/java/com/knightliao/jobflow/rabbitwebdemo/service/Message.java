@@ -1,7 +1,7 @@
 /*
  * Copyright (C) 2015 Baidu, Inc. All Rights Reserved.
  */
-package com.knightliao.jobflow.webdemo.service;
+package com.knightliao.jobflow.rabbitwebdemo.service;
 
 /**
  * Created by knightliao on 15/1/29.
